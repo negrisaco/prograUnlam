@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <conio.h>
 #include "matematicas.h"
 
 
@@ -7,6 +8,7 @@ int validarNatural(float n){
 
     int n_entero;
     n_entero=(int) n;
+
 
     if(n>=0 && (n-n_entero==0)){
     esNatural=1;
@@ -17,7 +19,6 @@ int validarNatural(float n){
     return esNatural;
 
 }
-
 
 int factorial(float n){
   int i;
@@ -41,7 +42,7 @@ int combinatoria (int z, int s){
  return(resComb);
 }
 
-//int resolSerie(int x, int tol){}
+int resolSerie(int x, int tol){}
 
 
 

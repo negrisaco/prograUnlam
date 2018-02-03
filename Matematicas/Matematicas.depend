@@ -1,15 +1,57 @@
 # depslib dependency file v1.0
-1517271221 source:d:\unlam\progii\2018\matematicas\matematicas.c
+1517608473 source:d:\unlam\progii\2018\matematicas\matematicas.c
 	<stdio.h>
 	<stdlib.h>
+	<conio.h>
 	"matematicas.h"
 
-1517530492 d:\unlam\progii\2018\matematicas\matematicas.h
+1517531125 d:\unlam\progii\2018\matematicas\matematicas.h
 	<stdio.h>
 	<stdlib.h>
 
-1517530675 source:d:\unlam\progii\2018\matematicas\main.c
+1517617428 source:d:\unlam\progii\2018\matematicas\main.c
 	<stdio.h>
 	<stdlib.h>
+	<conio.h>
 	"matematicas.h"
+	"fechas.h"
+
+1517617463 source:d:\unlam\progii\2018\matematicas\fechas.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"fechas.h"
+
+1517617400 d:\unlam\progii\2018\matematicas\fechas.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1517624724 source:c:\users\macha\documents\gabyto\git\prograunlam\matematicas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"matematicas.h"
+	"fechas.h"
+
+1517604444 c:\users\macha\documents\gabyto\git\prograunlam\matematicas\matematicas.h
+	<stdio.h>
+	<stdlib.h>
+
+1517622822 c:\users\macha\documents\gabyto\git\prograunlam\matematicas\fechas.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1517604444 source:c:\users\macha\documents\gabyto\git\prograunlam\matematicas\matematicas.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"matematicas.h"
+
+1517625208 source:c:\users\macha\documents\gabyto\git\prograunlam\matematicas\fechas.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"fechas.h"
 
