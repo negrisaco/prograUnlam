@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1517271221 source:d:\unlam\progii\2018\matematicas\matematicas.c
+	<stdio.h>
+	<stdlib.h>
+	"matematicas.h"
+
+1517530492 d:\unlam\progii\2018\matematicas\matematicas.h
+	<stdio.h>
+	<stdlib.h>
+
+1517530675 source:d:\unlam\progii\2018\matematicas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"matematicas.h"
+
